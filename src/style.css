@@ -1,0 +1,111 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Calibri;
+}
+
+.title {
+    margin: 0;
+}
+
+.add {
+
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 10px;
+    border: 0;
+    padding: 20px;
+    width: 90%; 
+}
+
+.i1, .i2, .btn1 {
+    height: 30px;
+    font-size: 15px;
+ 
+    border:0;
+}
+
+.i1 {
+    width: 27%;
+    margin-right: 10px; 
+    text-align: center;
+}
+
+.i2 {
+    width: 48%;
+    margin-right: 10px; 
+    padding-left: 10px;
+}
+
+.btn1 {
+    width: 10%; 
+    font-size: 13px;
+}
+
+.mostrar {
+    display: inline-block;
+    width: 100%; 
+}
+
+table {
+    width: 90%; 
+    margin-top: 20px; 
+    border-collapse: collapse; 
+
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ffffff;
+}
+
+
+.nro, th{
+    text-align: center;
+   
+}
+
+.links{
+    text-decoration: none;
+    color:#1dff00;
+}
+
+.nf{
+    
+    display: inline-block;
+    padding:5px;
+    background-color: rgba(0, 255, 255, 0.5);
+
+
+}
+
+.nro1{
+    text-align: center;
+   }
+
+.delete{
+    background-color: black;
+    color:white;
+    border:0;
+    cursor:pointer;
+    width:50%;
+    height:100%;
+
+}
+
+.editar{
+    background-color: black;
+    color:white;
+    border:0;
+    cursor: pointer;
+}
+
+.n1, .l1{
+    height: 20px;
+    padding-left: 10px;
+}
+
+.gcamb{
+    height: 30px;
+}
